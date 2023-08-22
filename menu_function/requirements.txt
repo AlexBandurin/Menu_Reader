@@ -1,0 +1,11 @@
+azure-functions
+pandas==2.0.1
+numpy==1.24.3
+xgboost==1.7.5
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1+cpu 
+transformers==4.29.2
+scikit-learn==1.2.2
+scipy==1.10.1
+
+
