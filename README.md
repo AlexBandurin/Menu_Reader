@@ -39,8 +39,4 @@ The following features were used for classification:
 - punctuation (number of other punctuation characters)
 - 2_periods_cnt	Item (count of 2 consecutive periods)
 <br></br>
-## Web application:
-<p align="center">
-<img src="https://github.com/AlexBandurin/Menu_Reader/blob/master/site_image.jpeg"  width="60%" height="60%">
-</p> 
 
