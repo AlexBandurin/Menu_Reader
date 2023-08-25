@@ -2,7 +2,7 @@
 
 This is a web application that converts an image file of a restaurant menu into text using Optical Character Recognition (OCR). 
 That text is then sent through a Machine Learning (ML) model to output a list of menu items using classification and Natural Language Processing techniques. 
-That list is then sent through another ML model to categorize these items into categories.
+The list is then passed to another ML model to be sorted into categories.
 
 [View the App](https://menu-reader-1ada6a994a40.herokuapp.com/)
 
