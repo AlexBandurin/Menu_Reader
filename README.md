@@ -1,3 +1,5 @@
+<img src="(https://github.com/AlexBandurin/Menu_Reader/blob/master/Menu_app_image.png)"  width="80%" height="70%">
+
 # Menu_Reader
 
 This is a web application that converts an image file of a restaurant menu into text using Optical Character Recognition (OCR). 
