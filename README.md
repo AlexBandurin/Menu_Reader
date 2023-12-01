@@ -1,4 +1,4 @@
-<img src="(https://github.com/AlexBandurin/Menu_Reader/blob/master/Menu_app_image.png)"  width="80%" height="70%">
+<img src="https://github.com/AlexBandurin/Menu_Reader/blob/master/Menu_app_image.png"  width="80%" height="70%">
 
 # Menu_Reader
 
