@@ -30,11 +30,11 @@ into **word embeddings** (768 features) to assist with classification modeling. 
 [ML Models Notebook](https://github.com/AlexBandurin/Menu_Reader/blob/master/menu_reader_modeling.ipynb)
 
 ## Azure Cloud and Web Application
-To make this application accessible to any user on the web, it is hosted on Heroku, a cloud platform . Flask was used to develop this application. <br>
+To make this application accessible to any user on the web, it was hosted on Heroku, a cloud platform . Flask was used to develop this application. <br>
 [Web App Files](https://github.com/AlexBandurin/Menu_Reader/tree/master/menu_reader_app) <br>
 The algorithms used for OCR and text classification/categorization are quite memory intesive. To offload these computations, I used Azure Function App.
-The image selected by a user is sent to the Function App in a JSON format (along with other informatin like image height and width), via RESTful API interface. 
-The result (consisting of generated menu items sorted into categories) is returned to the web application on which it is displayed. <br>
+The image selected by a user is sent to the Function App in a JSON format via RESTful API interface. The result (consisting of generated menu items sorted 
+into categories) is returned to the web application on which it is displayed. <br>
 [Function App Files](https://github.com/AlexBandurin/Menu_Reader/tree/master/menu_function) 
 
 
